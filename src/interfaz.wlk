@@ -17,7 +17,7 @@ object tablero{
 
 object puntos{
     var puntos= 0
-    const puntosParaGanar = 2500
+    const puntosParaGanar = 2000
     var property imagenUnidad = "imagenUnidad0.png"
     var property imagenDecena = "imagenDecena0.png"
     var property imagenCentena = "imagenCentena0.png"
