@@ -26,7 +26,7 @@ object dontwhackthecapybara {
 		game.width(8)
 		game.height(5)
 		game.cellSize(200)
-		game.boardGround("fondo.png")
+		game.boardGround("Fondo.png")
 	}
 
 	method agregarPersonajes() {
